@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2023/12/20/16/21/baking-8460297_1280.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+}
+
+#recipeForm {
+    margin: 30px 0;
+}
+
+#recipeContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
